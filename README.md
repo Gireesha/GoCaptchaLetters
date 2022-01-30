@@ -42,7 +42,7 @@ Build the current module's packages and dependencies.
     go mod tidy
 
 ## Step 6
-Download and install the font. Copy the .ttf file to the GoCaptchaLetters folder. Make chnages in the main.go to read the newly installed .ttf file. 
+Download and install the font. Copy the .ttf file to the GoCaptchaLetters folder. Make changes in the main.go to read the newly installed .ttf file. 
 
 ## Step 7
 Build the repo and execute the code in the terminal
